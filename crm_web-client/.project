@@ -3,7 +3,6 @@
 	<name>crm_web-client</name>
 	<comment></comment>
 	<projects>
-		<project>crm_business</project>
 		<project>crm_persistence</project>
 		<project>Giniality-Education-WebApp-Framework</project>
 	</projects>
